@@ -1,19 +1,19 @@
 @font-face {
     font-family: "Inter-Bold";
-    src: url(Fonts/Inter-Bold.ttf) format("truetype");
+    src: url(Inter-Bold.ttf) format("truetype");
     font-weight: normal;
     font-style: normal;
 }
 @font-face {
     font-family: "Inter-Semibold";
-    src: url(Fonts/Inter-SemiBold.ttf) format("truetype");
+    src: url(Inter-SemiBold.ttf) format("truetype");
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: "Inter-Regular";
-    src: url(Fonts/Inter-Regular.ttf) format("truetype");
+    src: url(Inter-Regular.ttf) format("truetype");
     font-weight: normal;
     font-style: normal;
 }
